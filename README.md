@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0D4&text=%20YUNJU%20%20&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0D4)
 
 - 💬 E-mail : dbswn980305@gmail.com
 <!-- - 😄 Pronouns: ...
@@ -62,3 +61,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=2018JavaProject_60sec)](https://github.com/yunju-jang/2018JavaProject_60sec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=KSJR-PROJECT)](https://github.com/yunju-jang/KSJR-PROJECT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=Algorithm)](https://github.com/yunju-jang/Algorithm)
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0D4)
