@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0D4&text=%20YUNJU%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-- 💬 E-mail : dbswn980305@gmail.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
- -->
+
+- 👋 Hi, I’m @yunju-jang
+- 💬 How to reach me dbswn980305@gmail.com
 
 
 
@@ -36,19 +35,22 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br/>
-![MYSQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 - 🌱 I’m currently learning ... <br/>
-![SPRING](https://img.shields.io/badge/typescript-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br/>
+![SPRING](https://img.shields.io/badge/typescript-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)<br/>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+<hr/>
+</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=WeT_SERVER)](https://github.com/We-T/WeT_SERVER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server)</br>
