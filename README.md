@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0D4&text=%20YUNJU%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 
 - 💬 E-mail : dbswn980305@gmail.com
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbswn9803&theme=cold)
 
 
-![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
+![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,ff8db1,ffd9e5&icon_color=fff&hide_border=true&title_color=fff&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&layout=compact&hide_border=true&bg_color=30,ff8db1,ffd9e5&text_color=fff&title_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
 
 
 
