@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![yunju-jang's github stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&orgs=SEND-WHICH)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=2018JavaProject_60sec)](https://github.com/yunju-jang/2018JavaProject_60sec)
