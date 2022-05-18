@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswn9803)](https://solved.ac/dbswn9803)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswn9803)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbswn9803&theme=cold)
 
 
