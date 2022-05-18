@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0D4&text=%20YUNJU%20%20&height=200&fontSize=90&fontColor=ffffff)
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFC0D4)
 
 - 💬 E-mail : dbswn980305@gmail.com
 <!-- - 😄 Pronouns: ...
