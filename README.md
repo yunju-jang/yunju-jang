@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 
 
 
-
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswn9803)](https://solved.ac/dbswn9803)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbswn9803&theme=cold)
 
 
-![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=2e4058&include_all_commits=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff&orgs=We-T)
+![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,e96443,904e95&icon_color=fff&title_color=fff&text_color=fff&orgs=We-T)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&orgs=We-T)](https://github.com/yunju-jang/github-readme-stats)
 
 
