@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbswn9803&theme=cold)
 
 
-![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&orgs=SEND-WHICH, We-T, Jangbogo-app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&orgs=SEND-WHICH, We-T, Jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
+![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&orgs=We-T,Jangbogo-app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&orgs=We-T,Jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
 
 
 
