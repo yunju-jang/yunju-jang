@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbswn9803&theme=cold)
 
 
-![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,ff8db1,ffd9e5&icon_color=fff&issue=hide&hide_border=true&title_color=fff&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)
+![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,ff8db1,ffd9e5&icon_color=fff&hide=issues&hide_border=true&title_color=fff&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&layout=compact&hide_border=true&bg_color=30,ff8db1,ffd9e5&text_color=fff&title_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
 
 
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=WeT_SERVER)](https://github.com/We-T/WeT_SERVER)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server)</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server)<!--</br>
    [![Repository Card](https://widget.realdeveloper.pro/api/card?user=yunju-jang&repo=WeT_SERVER)](https://github.com/We-T/WeT_SERVER)       
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SENDWHICH-web-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-android)](https://github.com/SENDWHICH-android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=GURU2)](https://github.com/yunju-jang/GURU2)
