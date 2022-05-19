@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ![yunju-jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunju-jang&show_icons=true&border_color=fff&include_all_commits=true&bg_color=30,ff8db1,ffd9e5&icon_color=fff&hide=issues&hide_border=true&title_color=fff&text_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&layout=compact&hide_border=true&bg_color=30,ff8db1,ffd9e5&text_color=fff&title_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunju-jang&hide_border=true&bg_color=30,ff8db1,ffd9e5&text_color=fff&title_color=fff&orgs=We-T,SEND-WHICH,jangbogo-app)](https://github.com/yunju-jang/github-readme-stats)
 
 
 - 💻 My Tech Skills: <br />
