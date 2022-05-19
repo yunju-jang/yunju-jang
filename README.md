@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server)<!--</br>
    [![Repository Card](https://widget.realdeveloper.pro/api/card?user=yunju-jang&repo=WeT_SERVER)](https://github.com/We-T/WeT_SERVER)       
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SEND-WHICH/SENDWHICH-web-server) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-web-server)](https://github.com/SENDWHICH-web-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=SENDWHICH-android)](https://github.com/SENDWHICH-android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=GURU2)](https://github.com/yunju-jang/GURU2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=Server)](https://github.com/Jangbogo-app/Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=2018JavaProject_60sec)](https://github.com/yunju-jang/2018JavaProject_60sec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=Server)](https://github.com/Jangbogo-app/Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=Hovering_SWU)](https://github.com/Hovering_SWU)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=KSJR-PROJECT)](https://github.com/yunju-jang/KSJR-PROJECT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunju-jang&repo=Algorithm)](https://github.com/yunju-jang/Algorithm)
 
