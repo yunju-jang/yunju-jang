@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning ... <br/>
-![SPRING](https://img.shields.io/badge/typescript-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![SPRING](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)<br/>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
